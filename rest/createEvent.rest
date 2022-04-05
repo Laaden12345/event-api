@@ -1,0 +1,9 @@
+
+POST https://localhost:7116/event
+Content-Type: application/json
+
+{
+    "henkiloID": 1,
+    "tyyppi": "Wappuriehan julistus",
+    "aika": "2022-04-30T13:00:00"
+}
